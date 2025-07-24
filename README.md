@@ -5,7 +5,8 @@
 Below is the high-level system design for the **Dynamic Pricing MVP**.
 It shows the **data flow** from ingestion (Bronze) ➜ curation (Silver) ➜ pricing logic (Gold) ➜ final Delta output.
 
-![System Architecture](C:\Users\kusha\OneDrive\Desktop\Projects\StealthConsumer\Dynamic-Product-Pricing\Arch diagram.jpg)
+![Arch diagram](https://github.com/user-attachments/assets/4acad978-61a7-44d0-b5f2-252152440377)
+
 
 ## ✅ Solution Summary
 
